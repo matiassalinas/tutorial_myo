@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Myo_Tutorial</string>
+    <string name="arm_left">Brazo izquierdo</string>
+    <string name="arm_right">Brazo derecho</string>
+    <string name="hello_world">Hola Mundo</string>
+    <string name="unlocked">Desbloqueado</string>
+    <string name="locked">Bloqueado</string>
+    <string name="pose_fist">Puño</string>
+    <string name="pose_wavein">Movimiento hacia adentro</string>
+    <string name="pose_waveout">Movimiento hacia afuera</string>
+    <string name="pose_fingersspread">Mano abierta</string>
+</resources>
